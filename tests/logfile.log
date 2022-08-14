@@ -1,0 +1,40 @@
+2022-07-31 12:15:20,272 :INFO : test_e2e :Getting all the card titles
+2022-07-31 12:15:20,301 :INFO : test_e2e :iphone X
+2022-07-31 12:15:20,316 :INFO : test_e2e :Samsung Note 8
+2022-07-31 12:15:20,332 :INFO : test_e2e :Nokia Edge
+2022-07-31 12:15:20,345 :INFO : test_e2e :Blackberry
+2022-07-31 12:15:20,509 :INFO : test_e2e :Confirmation was done, we going to jump to next page
+2022-07-31 12:15:25,757 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-31 12:23:26,160 :INFO : test_e2e :Getting all the card titles
+2022-07-31 12:23:26,180 :INFO : test_e2e :iphone X
+2022-07-31 12:23:26,191 :INFO : test_e2e :Samsung Note 8
+2022-07-31 12:23:26,201 :INFO : test_e2e :Nokia Edge
+2022-07-31 12:23:26,210 :INFO : test_e2e :Blackberry
+2022-07-31 12:23:26,331 :INFO : test_e2e :Confirmation was done, we going to jump to next page
+2022-07-31 12:23:31,559 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-08-05 19:27:15,447 :INFO : test_e2e :Getting all the card titles
+2022-08-05 19:27:15,469 :INFO : test_e2e :iphone X
+2022-08-05 19:27:15,481 :INFO : test_e2e :Samsung Note 8
+2022-08-05 19:27:15,495 :INFO : test_e2e :Nokia Edge
+2022-08-05 19:27:15,506 :INFO : test_e2e :Blackberry
+2022-08-05 19:27:15,646 :INFO : test_e2e :Confirmation was done, we going to jump to next page
+2022-08-05 19:27:20,843 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-08-07 16:37:01,128 :INFO : test_e2e :Getting all the card titles
+2022-08-07 16:37:01,151 :INFO : test_e2e :iphone X
+2022-08-07 16:37:01,161 :INFO : test_e2e :Samsung Note 8
+2022-08-07 16:37:01,170 :INFO : test_e2e :Nokia Edge
+2022-08-07 16:37:01,180 :INFO : test_e2e :Blackberry
+2022-08-07 16:37:01,315 :INFO : test_e2e :Confirmation was done, we going to jump to next page
+2022-08-07 16:37:06,540 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-08-07 18:27:58,175 :INFO : test_e2e :Getting all the card titles
+2022-08-07 18:27:58,201 :INFO : test_e2e :iphone X
+2022-08-07 18:27:58,212 :INFO : test_e2e :Samsung Note 8
+2022-08-07 18:27:58,222 :INFO : test_e2e :Nokia Edge
+2022-08-07 18:27:58,232 :INFO : test_e2e :Blackberry
+2022-08-07 18:27:58,356 :INFO : test_e2e :Confirmation was done, we going to jump to next page
+2022-08-07 18:28:03,575 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
