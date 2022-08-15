@@ -32,7 +32,7 @@ class TestHomepage(BaseClass):
         self.driver.refresh() # Refresh to refresh the page after validate that it was right... Need to input new values
         time.sleep(5)
 
-    @pytest.fixture(params= Homepagedata.getTestData("Testcase1")) # Each tuple will be trated as a test case. Is up to you
+    @pytest.fixture(params= Homepagedata.getTestData("Testcase2")) # Each tuple will be trated as a test case. Is up to you
     def getData(self, request):
         return request.param
 
