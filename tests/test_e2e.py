@@ -16,7 +16,7 @@ class TestOne(BaseClass):
         log = self.getLogger() # Invoke the corresponding logger
         homePage = HomePage(self.driver) # We create an object from Homepage type
         checkOutPage = homePage.shopItems()
-        log.info("Getting all the card titles--Mariano changes")
+        log.info("Getting all the card titles--Mariano changes new branch (NEW)")
         cards = checkOutPage.getCardTitles()
         i = -1
         for card in cards:
